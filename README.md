@@ -7,3 +7,4 @@ Export the express instance using default export syntax.
 <b>Use Common JS module syntax</b>.
 # gadgetsPage
 # newgadgets
+# gadgetsPage
